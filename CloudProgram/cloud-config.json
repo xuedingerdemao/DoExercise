@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "5765880207854615441",
+    "appName": "做题",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 0,
+    "packageType": 7,
+    "projectId": "388421841222219745",
+    "projectName": "做题",
+    "siteId": "CN"
+  },
+  "teamId": "390086000108545892"
+}
